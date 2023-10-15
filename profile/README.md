@@ -1,5 +1,7 @@
 # Technion Formal Verification
 
+![HWMCC20 aig problem paper_v3](paper_v3.png)
+
 Formal verification at the computer science faculty in the Technion - Israel Institute of Technology.
 
 ## What is this?
